@@ -1,1 +1,0 @@
-1. From command palatte use "initialize workspace". This allow you to select a folder to use as your workspace.
