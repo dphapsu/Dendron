@@ -4,3 +4,7 @@ build
 seeds
 .next
 pods/service-connections
+dendron.yml
+dendron.code-workspace
+dendron.yml
+.gitignore
