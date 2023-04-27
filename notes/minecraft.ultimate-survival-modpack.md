@@ -2,7 +2,7 @@
 id: 0x28k9lcw46p2a6dt2v5gqy
 title: Ultimate Survival Modpack
 desc: Rationale behind and guide to playing Ultimate Survival Modpack.
-updated: 1681916733012
+updated: 1682559614698
 created: 1679589598725
 ---
 modification on RGB 1
@@ -204,3 +204,14 @@ move one block to the left/right without changing orientation.
  The last configuration for the ore-dictionary functionality of the quarry/the oredict-sorter that I used. You don't need this, unless you happen to play with the exact same combination of mods that I was 2 years ago.
 
 Feel free to ask me any questions about the quarry or my other programs (https://pastebin.com/u/npexception). I'll try to answer them as best I can. :)
+
+## Branch Miner
+
+https://github.com/Equbuxu/mine
+
+## Another Minig Program
+
+https://www.reddit.com/r/feedthebeast/comments/kiziih/anyone_know_of_a_good_mining_turtle_program_that/
+
+pastebin run p9ZkrH1i
+
