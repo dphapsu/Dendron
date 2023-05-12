@@ -215,3 +215,6 @@ https://www.reddit.com/r/feedthebeast/comments/kiziih/anyone_know_of_a_good_mini
 
 pastebin run p9ZkrH1i
 
+# Stop Day-Night Cycle
+
+/gamerule dodaylightcycle false
