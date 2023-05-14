@@ -2,7 +2,7 @@
 id: 0x28k9lcw46p2a6dt2v5gqy
 title: Ultimate Survival Modpack
 desc: Rationale behind and guide to playing Ultimate Survival Modpack.
-updated: 1682705227929
+updated: 1684091974611
 created: 1679589598725
 ---
 modification on RGB 1
@@ -215,3 +215,7 @@ https://www.reddit.com/r/feedthebeast/comments/kiziih/anyone_know_of_a_good_mini
 
 pastebin run p9ZkrH1i
 
+## do and act
+
+pastebin get AE5bJyZh act
+pastebin get B19FgvuV do
