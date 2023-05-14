@@ -2,7 +2,7 @@
 id: 0x28k9lcw46p2a6dt2v5gqy
 title: Ultimate Survival Modpack
 desc: Rationale behind and guide to playing Ultimate Survival Modpack.
-updated: 1682559614698
+updated: 1682705227929
 created: 1679589598725
 ---
 modification on RGB 1
@@ -153,7 +153,7 @@ http://pastebin.com/GbWZhXCC
 Version Made by Renari compatible with the "Miny Chunky Module" peripheral. (Version 3.5.5)
 http://pastebin.com/4y9W8i9i
 
-## Turtle Mining Package
+### Turtle Mining Package
 
 I've written a small "installer" script a while ago that lets me download most of the programs and files I commonly use in CC. To use it, just execute 
 
@@ -209,7 +209,7 @@ Feel free to ask me any questions about the quarry or my other programs (https:/
 
 https://github.com/Equbuxu/mine
 
-## Another Minig Program
+## Another Mining Program
 
 https://www.reddit.com/r/feedthebeast/comments/kiziih/anyone_know_of_a_good_mining_turtle_program_that/
 
