@@ -2,7 +2,7 @@
 id: 0x28k9lcw46p2a6dt2v5gqy
 title: Ultimate Survival Modpack
 desc: Rationale behind and guide to playing Ultimate Survival Modpack.
-updated: 1684091974611
+updated: 1685109111701
 created: 1679589598725
 ---
 modification on RGB 1
@@ -219,3 +219,7 @@ pastebin run p9ZkrH1i
 
 pastebin get AE5bJyZh act
 pastebin get B19FgvuV do
+
+# Stop Day-Night Cycle
+
+/gamerule dodaylightcycle false
